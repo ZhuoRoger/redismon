@@ -1,0 +1,3 @@
+# redis monitor cron 
+* * * * * root (cd /path/to/redismon/bin/ && python redis_monitor.py > /dev/null)
+
