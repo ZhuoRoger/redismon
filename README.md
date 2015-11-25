@@ -84,7 +84,7 @@ redismon部署
 |master_repl_offset            |GAUGE|master复制的偏移量，除了写入aof外，Redis定期为自动增加|
 |mem_fragmentation_ratio       |GAUGE|内存碎片率，used_memory_rss/used_memory|
 |pubsub_channels               |GAUGE|目前被订阅的频道数量|
-|pubsub_patterns               |GAUGE|目前被订阅的频道数量|
+|pubsub_patterns               |GAUGE|目前被订阅的模式数量|
 |rdb_bgsave_in_progress        |GAUGE|标志位，记录当前是否在创建RDB快照|
 |rdb_current_bgsave_time_sec   |GAUGE|当前bgsave执行耗时秒数|
 |rdb_last_bgsave_status        |GAUGE|标志位，记录最近一次bgsave操作是否创建成功|
