@@ -155,4 +155,4 @@ redismon部署
 
 Contributors
 ------------------------------------------
-- 卓汝林: QQ:570923416; weibo: http://weibo.com/u/2540962412
+- 卓汝林:  weibo: http://weibo.com/u/2540962412
